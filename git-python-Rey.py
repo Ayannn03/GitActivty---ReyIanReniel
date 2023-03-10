@@ -5,5 +5,9 @@ print ("Marinduque State College")
 print ("Bachelor of Science in Information Technology (BSIT)")
 print ("2nd Year")
 print ("Section: 2B")
-
+print ("Reading Manwha")
+print ("Watching Anime")
+print ("Playing Online Games")
+print ("Playing Basketball")
+print ("Sleeping")
 
